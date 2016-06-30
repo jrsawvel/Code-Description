@@ -86,7 +86,7 @@ Tested the Ghost blog tool at: http://ghost.soupmode.com
 More thoughts about simplifying web pages:
 
 * [Manifesto for Lightweight Web Pages](http://blog.soupmode.com/manifesto-for-lightweight-web-pages.html) - *or a screed against web page bloat*
-  * [Design By Writing](/design-by-writing.html)
-  * [Create a Comfortable Reading Experience](/create-a-comfortable-reading-experience.html)
-  * [Battle Web Page Bloat](/battle-web-page-bloat.html)
+  * [Design By Writing](http://blog.soupmode.com/design-by-writing.html)
+  * [Create a Comfortable Reading Experience](http://blog.soupmode.com/create-a-comfortable-reading-experience.html)
+  * [Battle Web Page Bloat](http://blog.soupmode.com/battle-web-page-bloat.html)
 
