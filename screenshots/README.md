@@ -2,9 +2,6 @@
 
 
 
-https://www.flickr.com/photos/131621939@N03/tags/screenshot/
-
-
 ### Parula
 
 Used at http://toledotalk.com since 2005. ToledoTalk.com began in January 2003.
@@ -66,7 +63,6 @@ Desktop view of the home page stream while not logged into the app. If logged-in
 Used at:
 
 * http://maketoledo.com
-* http://birdbrainsbrewing.com
 * http://toledowinter.com
 * http://babyutoledo.com
 
@@ -130,7 +126,7 @@ This is the larger text area box for creating a note or article. This is accesse
 
 
 
-br. Desktop view of an article page.
+<br />Desktop view of an article page.
 
 ![](https://c2.staticflickr.com/6/5695/22355775881_114dff6b53_z.jpg)
 
@@ -217,7 +213,7 @@ Start a new message thread that will either be sent only to me for a truly priva
 ![](https://c1.staticflickr.com/1/596/22331885362_a29837dd64_z.jpg)
 
 
-br. When logged in, this is an example of how the home page would appear.
+<br />When logged in, this is an example of how the home page would appear.
 
 ![](https://c2.staticflickr.com/6/5689/22331643762_9e5fb3c18f_z.jpg)
 
@@ -235,12 +231,12 @@ Home page view when I'm logged in. If the app ran in multi-user mode, this would
 ![](https://c1.staticflickr.com/1/744/22344767405_93b57ae7e8_z.jpg)
 
 
-br. I spend most of my time in the stream view, which is similar to the stream view listed above for Veery. It's also used at Scaup, and it's the view used for the notes section in Grebe.
+<br />I spend most of my time in the stream view, which is similar to the stream view listed above for Veery. It's also used at Scaup, and it's the view used for the notes section in Grebe.
 
 ![](https://c2.staticflickr.com/6/5699/22331841642_6df5c355cb_z.jpg)
 
 
-br. My profile page. The items listed in the light blue background are only shown to me when I'm logged in.
+<br />My profile page. The items listed in the light blue background are only shown to me when I'm logged in.
 
 ![](https://c2.staticflickr.com/6/5696/22156837100_3f9b4c63a9_z.jpg)
 
@@ -252,9 +248,39 @@ Used at http://toledoweather.info
 
 jQuery Mobile is used to display pages.
 
-Desktop view of the home page.
-
+Desktop view of the home page.  
 ![](https://c1.staticflickr.com/1/601/22331743722_a5e0d3b56c_z.jpg)
+
+
+Desktop view of the Forecast.io info page.  
+![](https://c1.staticflickr.com/1/699/22259563179_c9a4e04823_c.jpg)
+
+
+Views on a phone.
+
+![](https://c2.staticflickr.com/8/7524/27191794613_c44f96e2a6_z.jpg)
+
+
+<br />![](https://c2.staticflickr.com/8/7415/27802935865_1f03674930_z.jpg)
+
+
+<br />![](https://c2.staticflickr.com/8/7654/27191668773_c751982f48_z.jpg)
+
+
+<br />![](https://c2.staticflickr.com/8/7491/27587155722_b38b83b374_z.jpg)
+
+
+
+
+### Yo Notifications
+
+The [Yo service](http://www.justyo.co/) offers an API. I use my [Yo-Perl](https://github.com/jrsawvel/Yo-Perl) module at ToledoTalk.com and ToledoWeather.info to send notifications to my phone. When a new post is made at Toledo Talk, I receive a Yo. When Forecast.io data predicts heavy rain for the area, ToledoWeather.info sends a Yo.
+
+![](https://c2.staticflickr.com/8/7425/27409297470_21e48d1edc_z.jpg)
+
+<br />![](https://c2.staticflickr.com/8/7393/27074154454_2f873fab39_z.jpg)
+
+
 
 
 
@@ -262,19 +288,88 @@ Desktop view of the home page.
 
 Powered by Grebe.
 
-Screenshot of homepage as of early November 2015.
+Screenshot of the homepage as of early November 2015.
 
 ![](https://c2.staticflickr.com/6/5768/22783935549_3fb1868151_c.jpg)
 
 
+Screenshots of the homepage as of 2016. The buttons are now mouse-over-dropdown menus.
 
-### ToDo
+![](https://c2.staticflickr.com/8/7441/27652053586_1511cbbaef_c.jpg)
+
+
+Mobile versions of the most recent homepage.
+
+![](https://c2.staticflickr.com/8/7176/27586013392_43f9e0f25c_z.jpg)
+
+<br />![](https://c2.staticflickr.com/8/7434/27612102151_1cac333c15_z.jpg)
+
+<br />![](https://c2.staticflickr.com/8/7329/27686709835_16f680163c_z.jpg)
+
+
+
+
+### My iPhone 
+
+Screen grabs of links to my web apps or sites, saved to the phone's home screen and within the Safari web browser. (iOS 7)
+
+![](https://c2.staticflickr.com/8/7132/27803067245_379d81a3ff_z.jpg)
+
+<br />![](https://c2.staticflickr.com/8/7243/27524641230_5275a56a36_z.jpg)
+
+<br />![](https://c2.staticflickr.com/8/7416/27803064515_0103c757e9_z.jpg)
+
+
+
+
+### Wren
+
+Used at http://birdbrainsbrewing.com
+
+[screenshots needed]
+
+
+
+### Map Mashups
+
+
+Last decade on the ToledoTalk.com server, I created a few [map mashups](http://toledotalk.com/cgi-bin/tt.pl/article/2114/Lewiki_Mashups) that combined data with Google maps.
+
+I built [my first map mashup](http://www.toledotalk.com/cgi-bin/comments.pl/21/1376) in 2005 that mapped Lucas County registered sex offenders, using data from the sheriff's department.
+
+A user could enter an address to show the location of nearby registered sex offenders. I had programmed the addresses for all the county library locations into the database and some of the TPS elementary schools. The user could filter by classification, zip code, city, and last name.
+
+But I unplugged the app a few years later because I received multiple lawsuit threats. I used government data. Even when I explained that the person was still in the latest file produced by the sheriff, I still received the threats.
+
+The last time that I processed the data was in 2008. I've disabled viewing of that map app. The other map mashups don't display content anymore because of tech changes by Google.
+
+Some old screenshots from 2008:
+
+Home Page  
+![](http://farm4.staticflickr.com/3735/9315081518_9a150e3587.jpg)
+
+
+Offenders that lived in 43613  
+![](http://farm6.staticflickr.com/5520/9312295331_2f4e026207_n.jpg)
+
+
+The Tier III (Sexual Predators) in the county  
+![](http://farm4.staticflickr.com/3789/9315081482_fa3dc76466_n.jpg)
+
+Obviously, it was possible to zoom in on the maps and click the push-pins for details, which should information for each individual. The names of the registered offenders were also displayed on the web page outside of the map area.
+
+
+
+
+
+### ToDo 
+
+Add screenshots for the following areas:
 
 * bottom of a veery home page
-* more toledoweather.info screenshots on various devices
-* phone screen shots
+* more phone screenshots
 * toledo talk home page, logged in, new comments to read
 * wren
-* updated babyutoledo.com views
 
+https://www.flickr.com/photos/131621939@N03/tags/screenshot/
 
