@@ -44,6 +44,7 @@
 * http://article.soupmode.com
 * http://wren.soupmode.com
 * http://zwdqwr2p2xwkpbyv.onion
+* gopher://boghop.com
 
 
 Tested the Ghost blog tool at: http://ghost.soupmode.com
